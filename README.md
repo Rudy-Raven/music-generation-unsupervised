@@ -1,4 +1,4 @@
-# Music Generation using LSTM Autoencoder
+# Music Generation using Unsupervised Machine Learning
 
 CSE425 Project - Task 1
 
